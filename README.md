@@ -1,6 +1,6 @@
 ## Création d’un Agent Chatbot E-commerce avec LangChain
 
-
+![](ca.jpg)
 ### Présentation du projet
 **Dans ce projet, nous allons développer un chatbot e-commerce en exploitant la bibliothèque LangChain à partir d’une base de code préexistante. L’agent conversationnel que nous allons concevoir sera capable de** :
 
